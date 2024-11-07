@@ -3,7 +3,7 @@ const qrcode = require('qrcode-terminal');
 
 // Lista de números a los que se enviará el mensaje
 const numeros = [
-  '51935419486@c.us', // Número 1 (Argentina)
+  '123456789@c.us', // Número de prueba para enviar mensajes
   // Agrega más números aquí
 ];
 
